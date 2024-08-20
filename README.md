@@ -4,9 +4,9 @@ Hi there 👋 I am a recent graduate with a Bachelor of Science in Computer Scie
 
 ## Technical Skills 🛠️
 
-- Languages: JavaScript, Python, TypeScript
-- Frameworks & Libraries: React, Next.js, Node.js, FastAPI
-- Tools & Platforms: GitHub, Docker, Azure, Vercel
+- Languages: VB .NET, Java, JavaScript, Python, TypeScript
+- Frameworks & Libraries: React, Next.js, Node.js, Astro
+- Tools & Platforms: GitHub, Docker, AWS, Azure, Vercel
 - Data Science & AI: Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.
 
 ## Key Projects 📚
